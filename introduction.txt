@@ -1,0 +1,42 @@
+# Programming Language: Those Languages used for communication between electronic devices...
+
+    #Compiler Language
+        #  compilation: Converting the human code to a machine understandable code.
+            java filename --->.class
+        #Execution: Taking the converted code and performing the logics..
+            javac  filename
+
+    #Interpreted Language
+        #  Both compilation and execution will happen in single step only..
+          python filename
+
+    # General purpose languages:
+        # Those which we use it on daily life activities..
+
+    # Specific purpose languages
+        # Those which we use it only for specific purpose.
+            # pascal
+
+# pthon features:
+    # easy to write and read..
+    # Interpreted languages.
+    # Huge library support ( Modules, packages)..
+    # Platform independent.
+    # General Purpose languages.
+    # Dynamic Typed language.
+
+
+# Module 1:
+    # Keyboard, variables, operators, conditional, loopings, controlflow.
+
+# Module 2:
+    # 6 datatypes of python
+        # numbers, strings, list, tuples, dictionary, sets.
+
+# Module 3:
+    # Functions, modules, Fileoperations, Databases, Calculator.
+
+# Module 4:
+    # Oops, Exeception Handlings, Regular Expression, Multithreading, Webscraping, AWS, Pandas
+
+# 3 hour project session with web developement.
