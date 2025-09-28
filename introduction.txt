@@ -27,7 +27,7 @@
 
 
 # Module 1:
-    # Keyboard, variables, operators, conditional, loopings, controlflow.
+    # Keyword, variables, operators, conditional, loopings, controlflow.
 
 # Module 2:
     # 6 datatypes of python
