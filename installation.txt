@@ -1,0 +1,71 @@
+# IDE (Integrated developement Environment ): (Visual Studio Code, pycharm, atom, anaconda, Eclipse etc.,)
+# Python software has to be installed( python.org official website )
+    # Go to Downloads (It shows the latest version automatically after clicking the download option )
+    # Based on the OS Linux, macOS have default version of python.
+    # Click on Windows ( It shows the versions ), based on the system, click on 64 bit. A file downloads automatically.
+    # Go to downloads. Double Click it. 
+    # Click on Add pyhon.exe to path
+        # If we forget to click on the check box. It doesn't allow to execute the code. 
+        # Advantage of clicking the check box is python software which is downloaded can be accessed throught the system.
+       
+        #How to check it is done?
+            # Environmental variables path
+                # Search Environmental variables click it. Click on Environment Variable. Double click on Path. 
+                # It shows some path files.
+                #What does these paths indicate is?
+                    # I can access the paths throught the system whether in downloads, documents or anywhere else.
+   
+    # Click on installed 
+    # Execution of command can be done from command prompt
+        # Search for Command Prompt 
+        # Enter python. If we can find any version installation then the installation of program is successful.
+        # If we forget to set the path for the program we cannot get the result in the command propmpt.
+    
+   # What happens if we forget to select path.
+        # Open Command promt and type python. It will redrict to the microsoft page.
+        # It just downloads the python.txt file only. We need to install so many commands that wouldn't help us by downloading from microsoft windows.
+        # So try to do it manually through the python.org. . .
+
+    # Go to the path where the software is installed.
+        #  Go to Local Disk c, click on Users, system name, App data folder.
+        ( # It may be a hided folder so we cannot find system name or App data then click on View, select hidden items.)
+        # Click on App data, go to local, programs, python, python 3.11.
+        # Click the path that  shows the data like how the file is save like 
+        # same like this (C:>Users > aslpe> Downloads > lab2-application > CS5340-TOY-Application > installation.txt ) Copy the path
+        # Search for Edit the system environment variables click on it.  click on Environmet variable, path. Click on New then paste the path that is copied.
+        # Click on New again and paste the path again and include \Scripts. Then Click on Okay ahain.
+        # Reopen the command Prompth again after restart and search for python.
+
+
+# How to check the downloaded programs version?
+    # Search Control Panel. Then programs and features. We can find python 3.11.3 (64 bit)
+
+# How to check any software installation?
+    # Search for python. We can see the versions and .exe selected file
+
+2 modes of executing the program:
+    # interactive modes(where we interact with the software directly..)
+    # Script mode( saving the logic in a file and executing it with the respective software.)
+
+
+# Linux
+If we want to upgrade python version in Linux
+
+sudo apt-get update && sudo apt-get upgrade
+sudo apt-get install python3.11
+
+macOS
+brew install python3 && cp/usr/local/bin/python3 /usr/local/bin/python
+
+2modes of executing the program:
+    # Interactive mode (where we intract with software directly)
+    # Script mode(Saving the logic in a file and executing with the respective software)
+
+#python file has to be saved with .py as the extension
+
+
+#### Visual studio Code
+# Can download from microsoftt store or else from Visual studio Code ( https://code.visualstudio.com/download )
+# Double click on Visual Studio Code. After Installation of VS Code.
+# In the "Extension" install recommended python\Docker\PHP or any programming languages available in the VSCode.
+# After installation of python. We can smoothly write the code.
