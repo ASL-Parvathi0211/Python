@@ -1,59 +1,59 @@
-# Creating a File/folder & Open/change/new/kill Terminal
+Creating a File/folder & Open/change/new/kill Terminal
 
-# How do I create a folder?
-    # Create a folder manually on the desktop, in downloads, or in documents. Python
+How do I create a folder?
+    Create a folder manually on the desktop, in downloads, or in documents. Python
 
-# How do I open the folder in Visual Studio Code?
-    # Click on File and click on Open folder (Ctrl+k/Ctrl+O)
-    # Select the respective folder.
-    # If we open it as a folder. It will show us the path of the folder directly.
+How do I open the folder in Visual Studio Code?
+    Click on File and click on Open folder (Ctrl+k/Ctrl+O)
+    Select the respective folder.
+    If we open it as a folder. It will show us the path of the folder directly.
 
-# How to close the opened folder in Visual Studio Code?
-    # Click on File and click on the close folder (Ctrl+k f)
+How to close the opened folder in Visual Studio Code?
+    Click on File and click on the close folder (Ctrl+k f)
 
-# How to open the file in Visual Studio Code?
-    # Click on File and click on Open file (Ctrl+O)
-    # Select the respective file
-    # If we open it as a file. It will show us the path of the file directly
+How to open the file in Visual Studio Code?
+    Click on File and click on Open file (Ctrl+O)
+    Select the respective file
+    If we open it as a file. It will show us the path of the file directly
 
-# How to open a terminal?
-    # Click on Terminal, then on New Terminal (Ctrl+Shift+’)
+How to open a terminal?
+    Click on Terminal, then on New Terminal (Ctrl+Shift+’)
 
-# What is the default terminal for Visual Studio Code?
-    # Windows default terminal for Windows in PowerShell as the terminal
+What is the default terminal for Visual Studio Code?
+    Windows default terminal for Windows in PowerShell as the terminal
 
-# How to change the terminal in Visual Studio Code?
-    # Click on Launch Profile
-    # Then, select the default profile option
-    # Then a dropdown automatically pops out like that and selects the command prompt option, Git Bash, or JavaScript
-    # If you click enter, it stays in the PowerShell only
-    # Unless you open the new terminal. It is not going to automatically change to the command prompt; we need to click on launch profile again. So that the command prompt terminal opens.
+How to change the terminal in Visual Studio Code?
+    Click on Launch Profile
+    Then, select the default profile option
+    Then a dropdown automatically pops out like that and selects the command prompt option, Git Bash, or JavaScript
+    If you click enter, it stays in the PowerShell only
+    Unless you open the new terminal. It is not going to automatically change to the command prompt; we need to click on launch profile again. So that the command prompt terminal opens.
 
-# How to open a new terminal?
-    # To open a number of terminals or a new terminal. Click on Launch profile (+)
+How to open a new terminal?
+    To open a number of terminals or a new terminal. Click on Launch profile (+)
 
-# How to delete a terminal?
-    # Deleting a terminal is just clicking on the delete button
+How to delete a terminal?
+    Deleting a terminal is just clicking on the delete button
 
-# How to create a new file?
-    # Click on file
-    # Then click on the new text file (Ctrl+N).
-    # Or click on the new file (Ctrl+Alt+Windows+N).
+How to create a new file?
+    Click on file
+    Then click on the new text file (Ctrl+N).
+    Or click on the new file (Ctrl+Alt+Windows+N).
 
-# How to execute the code?
-    # Execution of the code: python space file name
-        # Ex: python sample.py / installation.txt / keywords_cls.py
+How to execute the code?
+    Execution of the code: python space file name
+        Ex: python sample.py / installation.txt / keywords_cls.py
 
-# What is the importance of print()?
-    # We execute the sample.py file with the expression (a+b). But it hasn't given any output
-    # The reason is that we perform the operation in interactive mode
-    # a+b is an expression it will understand. So once an expression is given, it needs to return the output. Script mode cannot return the output directly. If we write an expression (a+b), it cannot print the output.
-    # We need to use a command called print() in Script mode.
+What is the importance of print()?
+    We execute the sample.py file with the expression (a+b). But it hasn't given any output
+    The reason is that we perform the operation in interactive mode
+    a+b is an expression it will understand. So once an expression is given, it needs to return the output. Script mode cannot return the output directly. If we write an expression (a+b), it cannot print the output.
+    We need to use a command called print() in Script mode.
 
-# What is the reason #print(“Hello World”) didn’t execute the code?
-    #   # is a key where it shows as the
+What is the reason #print(“Hello World”) didn’t execute the code?
+      # is a key where it shows as the
 
-# What if there is an error in showing the execution?
-    # Open the folder and then retry the execution.
-    # Save the file.
-    # Saving the file after making the changes each and every time before execution.
+What if there is an error in showing the execution?
+    Open the folder and then retry the execution.
+    Save the file.
+    Saving the file after making the changes each and every time before execution.
